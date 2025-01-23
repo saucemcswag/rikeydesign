@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-family: 'Papyrus';
+    letter-spacing: 15px;
+    font-size: 65px;
+    color: white;
+}
+h2 {
+    text-align: center; 
+    font-family: 'Papyrus';
+    font-size: 30px;
+    color: white;
+}
+h4 {
+    color: white;
+    text-align: center;
+    font-family: 'Copperplate Gothic';
+    font-size: 20px;
+}               
+body {
+    background-image: url(Gradient.png);
+    background-repeat: no-repeat;
+    background-size: 140%;
+}
+.Disco {    
+    position: relative;
+    left: 150px;    
+    top: 50px;
+    color: white;
+    font-family: 'Copperplate Gothic';
+    font-size: 25px;
+}
+.Taimur {
+    position: relative;
+    left: 150px;
+    top: 50px;
+    color: white;
+    font-size: large;
+}
+.Moaz {
+    position: relative;
+    left: 150px;
+    top: 50px;
+    color: white;
+    font-size: large;
+}
+ul {
+    position: relative;
+    left: 150px;
+    top: 50px;
+    color: white;
+    font-size: large;
+}
+.info {
+    position: relative;
+    left: 880px;    
+    bottom: 285px;
+    color: white;
+    font-family: 'Copperplate Gothic';
+    font-size: 25px;
+}
+.Carti {
+    position: relative;
+    left: 880px;    
+    bottom: 285px;
+    color: white;
+    font-size: 17px;
+    line-height: 1.15;
+}
+.JordanTerrellCarter {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    position: relative;
+    bottom: 570px;
+    left: 15px;
+    border: 2px solid white;
+}
+.IAMMUSIC {
+    position: relative;
+    left: 880px;
+    bottom: 550px;
+    color: white;
+    font-family: 'Copperplate Gothic';
+    font-size: 25px;
+}

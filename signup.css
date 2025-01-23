@@ -1,0 +1,23 @@
+* {
+    padding: 4px;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-family: 'Papyrus';
+    letter-spacing: 15px;
+    font-size: 60px;
+    color: white;
+}
+h5 {
+    position: relative;
+    bottom: 100px;
+    left: 20px;
+    font-size: 15px;  
+}
+body {
+    background-image: url(Gradient.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}

@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-family: 'Papyrus';
+    letter-spacing: 15px;
+    font-size: 60px;
+    color: white;
+}
+h2 {
+    text-align: center;
+    font-family: 'Papyrus';
+    font-size: 30px;
+    color: white;
+}
+h5 {    
+    position: relative;
+    bottom: 120px;
+    left: 20px;
+    font-size: 15px;
+}
+body {
+    background-image: url(Gradient.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+p {
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    width: 380px;
+    border: 3px solid white;
+    position: relative;
+    left: 50px;
+}
+img {
+    position: relative;
+    left: 280px;
+    bottom: 50px
+}
